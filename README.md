@@ -7,6 +7,7 @@
 
 ### Something you might like (and contribute to 😉)
 
+<a href="https://github.com/francescovallone/serinus">
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin?username=francescovallone&repo=serinus&hide_border=true&theme=tokyonight"
@@ -18,6 +19,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api/pin?username=francescovallone&repo=serinus&hide_border=true&layout=compact" />
 </picture>
+ </a>
 
 ---
 
