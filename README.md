@@ -1,7 +1,7 @@
 ### Hi there, I'm [Francesco][website] 👋
 
 - 🌱 Focusing on Flutter and Dart
-- 🐤 Working on [Serinus][serinus]
+- 🐤 Working on [Serinus](https://github.com/serinus-nest)
 
 ---
 
