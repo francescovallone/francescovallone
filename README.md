@@ -21,6 +21,20 @@
 </picture>
  </a>
 
+ <a href="https://github.com/francescovallone/acanthis">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/pin?username=francescovallone&repo=acanthis&hide_border=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/pin?username=francescovallone&repo=acanthis&hide_border=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/pin?username=francescovallone&repo=acanthis&hide_border=true&layout=compact" />
+</picture>
+ </a>
+
  <a href="https://github.com/francescovallone/flutter-glyph-kit">
 <picture>
 <source 
